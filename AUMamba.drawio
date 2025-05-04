@@ -151,8 +151,8 @@
         <mxCell id="G9MimPonou3kFe0NSSdk-86" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="1151" y="312.19" width="15.62" height="15.62" as="geometry" />
         </mxCell>
-        <mxCell id="G9MimPonou3kFe0NSSdk-97" value="$$ AU predictions $$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1073.81" y="339.38" width="130" height="30" as="geometry" />
+        <mxCell id="G9MimPonou3kFe0NSSdk-97" value="$$ prediction\ of\ AUs $$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1063.81" y="339.38" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
