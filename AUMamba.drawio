@@ -25,7 +25,7 @@
           <mxGeometry x="131.5" y="-100" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G9MimPonou3kFe0NSSdk-8" value="$$ \frac{H}{4} ×\frac{W}{4} ×C_{1} $$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="56.5" y="390" width="270" height="30" as="geometry" />
+          <mxGeometry x="56.5" y="380" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G9MimPonou3kFe0NSSdk-10" value="$$ H×W×3 $$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="131.5" y="-130" width="120" height="30" as="geometry" />
